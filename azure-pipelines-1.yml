@@ -2,7 +2,7 @@
 #Demo sprint application
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: ubuntu-latest
